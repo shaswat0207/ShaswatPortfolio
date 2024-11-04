@@ -1,0 +1,19 @@
+[
+  {
+    "title": "The Garage",
+    "imageSrc": "projects/project.png",
+    "description": "A Website for purchasing all types of new as well as used cars.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
+    "demo": "https://shaswat0207.github.io/TheGarage/",
+    "source": "https://github.com/shaswat0207/TheGarage"
+  },
+  {
+    "title": "Currency Converter",
+    "imageSrc": "projects/Project1.png",
+    "description": "Developed an application using React and Vite, allowing users to convert currencies in real-time based on live exchange rates.",
+    "skills": ["React", "Javascript"],
+    "demo": "https://shaswat0207.github.io/CurrencyConverter/",
+    "source": "https://github.com/shaswat0207/CurrencyConverter"
+  }
+  
+]
